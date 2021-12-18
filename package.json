@@ -82,7 +82,7 @@
     "multihashes": "~0.4.14",
     "ndjson": "github:hugomrdias/ndjson#feat/readable-stream3",
     "once": "^1.4.0",
-    "parse-duration": "^0.1.1",
+    "parse-duration": "^0.5.0",
     "peer-id": "~0.12.3",
     "peer-info": "~0.15.1",
     "promise-nodeify": "^3.0.1",
