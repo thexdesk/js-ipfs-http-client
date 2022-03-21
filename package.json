@@ -83,7 +83,7 @@
     "ndjson": "github:hugomrdias/ndjson#feat/readable-stream3",
     "once": "^1.4.0",
     "parse-duration": "^0.1.1",
-    "peer-id": "~0.12.3",
+    "peer-id": "~0.16.0",
     "peer-info": "~0.15.1",
     "promise-nodeify": "^3.0.1",
     "promisify-es6": "^1.0.3",
